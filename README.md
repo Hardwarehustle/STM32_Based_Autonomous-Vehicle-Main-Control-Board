@@ -1,11 +1,5 @@
 # 🤖 Autonomous Vehicle — Main Control Board (OW_Main_PCB)
 
-> **Designed by:** Janardhan BV  
-> **Tool:** KiCad EDA 9.0.7  
-> **MCU:** STM32 Nucleo F446RE (ARM Cortex-M4, 180 MHz)  
-> **File:** `Ow_main_pcb.kicad_sch`  
-> **Type:** Personal Project — Autonomous Vehicle Main Controller
-
 ---
 
 ## 📌 Project Overview
@@ -26,12 +20,17 @@ The MCB features:
 
 ## 🖼️ Project Visuals
 
-### 3D Top View
-![3D Top View](images/TopView.jpg)
-
 ### Schematic
-![Schematic](images/SCH.pdf)
+![Schematic](Images/SCH.png)
 
+### PCB Layout
+![PCB Layout](Images/PCB_Layout.png)
+
+### 3D Board Top View
+![3D Top View](Images/TopView.png)
+
+### 3D Board Bottom View
+![3D Bottom View](Images/BottomView.png)
 ---
 
 ## 🏗️ System Architecture
