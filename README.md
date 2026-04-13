@@ -283,16 +283,6 @@ AV-Main-Control-Board/
 
 ---
 
-## 🏷️ GitHub Topics to Add
-
-```
-autonomous-vehicle  stm32  nucleo-f446re  w5500  ethernet
-max485  rs485  kicad  pcb-design  motor-control  relay
-embedded-systems  robotics  pwm  tcp-ip
-```
-
----
-
 ## ⚠️ Design Notes & Cautions
 
 - **XT30 polarity** — always verify before powering; reverse polarity will damage AMS1117 and MCU
