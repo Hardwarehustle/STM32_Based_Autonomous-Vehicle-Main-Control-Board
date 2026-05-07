@@ -112,7 +112,7 @@ Remote Ctrl              (U7–U11)
 
 ---
 
-## 🔌 Signal Net Map — STM32 Nucleo F446RE
+## Signal Net Map — STM32 Nucleo F446RE
 
 | Net Name | Nucleo Pin | Function |
 |:---|:---:|:---|
