@@ -304,7 +304,7 @@ This project is open for educational and personal use.
 ## Author
 
 **Janardhan BV**  
-Embedded Hardware Engineer | PCB Design | Power Electronics  
+Embedded Hardware Engineer | PCB Design
 Bengaluru, India
 
 ---
